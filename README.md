@@ -58,6 +58,19 @@ O painel gerencial visa oferecer uma visão completa sobre o desempenho das vend
 - **Identificação de Oportunidades de Crescimento**: Com a segmentação por categorias e análise de canais, é possível reconhecer áreas de oportunidade e investir nos segmentos mais lucrativos.
 - **Otimização de Preços e Frete**: Análise dos preços com e sem frete para avaliar o impacto sobre a decisão de compra dos clientes.
 
-## Contato
 
-Se você tiver dúvidas ou sugestões sobre o projeto, entre em contato por [vitor13muniz09@gmail.com](mailto:vitor13muniz09@gmail.com).
+## 👨‍💻 Autor
+
+**Vitor Hugo Muniz de Sousa Santos**
+
+💼 Engenheiro de Computação | Cientista de Dados
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**
