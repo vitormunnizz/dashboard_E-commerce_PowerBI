@@ -1,5 +1,3 @@
-# Painel Gerencial para E-commerce no Power BI
-
 ## Descrição do Projeto
 
 Este projeto tem como objetivo desenvolver um **Painel Gerencial** no Power BI para um e-commerce, focado em melhorar a análise e a previsão de vendas. Com o auxílio de um **modelo de regressão linear**, o painel fornece previsões de faturamento e recomendações práticas para maximizar a performance de vendas. Através de visualizações e métricas detalhadas, o painel auxilia gestores a identificar oportunidades de crescimento e ajustar estratégias de marketing e vendas.
@@ -57,7 +55,6 @@ O painel gerencial visa oferecer uma visão completa sobre o desempenho das vend
 - **Melhor Tomada de Decisão**: A partir da previsão de vendas e das recomendações oferecidas, a equipe pode implementar estratégias para aumentar as vendas.
 - **Identificação de Oportunidades de Crescimento**: Com a segmentação por categorias e análise de canais, é possível reconhecer áreas de oportunidade e investir nos segmentos mais lucrativos.
 - **Otimização de Preços e Frete**: Análise dos preços com e sem frete para avaliar o impacto sobre a decisão de compra dos clientes.
-
 
 ## 👨‍💻 Autor
 
